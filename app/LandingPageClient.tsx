@@ -165,15 +165,15 @@ export default function LandingPageClient() {
 							<div className="flex flex-col sm:flex-row items-center gap-4 text-sm">
 								<div className="flex items-center gap-2 hover:text-purple-400 transition-colors duration-200 cursor-pointer">
 									<Mail className="w-4 h-4" />
-									<span>contact@finally.com</span>
+									<span>contact@redacted.com</span>
 								</div>
 								<div className="flex items-center gap-2 hover:text-purple-400 transition-colors duration-200 cursor-pointer">
 									<Phone className="w-4 h-4" />
-									<span>+1 (555) 123-4567</span>
+									<span>+63 999 9999 999</span>
 								</div>
 								<div className="flex items-center gap-2 hover:text-purple-400 transition-colors duration-200 cursor-pointer">
 									<MapPin className="w-4 h-4" />
-									<span>San Francisco, CA</span>
+									<span>Philippines</span>
 								</div>
 							</div>
 						</div>
